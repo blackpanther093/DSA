@@ -1,2 +1,2 @@
-# My_DSA
-will post my DSA questions DAILY here which i will do...
+# DSA
+Will Solve DSA Questions Daily and post them in here from https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
